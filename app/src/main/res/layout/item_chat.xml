@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#d7d4d4"
+
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tramquochuyse@gmail.com"
+        android:id="@+id/txtUsername"
+        android:layout_marginLeft="6dp"
+        android:textColor="#1590c9"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:gravity="center"
+            android:textColor="#000"
+            android:padding="10dp"
+            android:background="@drawable/duongvien_goctron"
+            android:text="Hôm nay vui lắm  học được 10 điểm luôn vk iu"
+            android:id="@+id/txtNoiDung"
+            />
+
+
+
+</LinearLayout>

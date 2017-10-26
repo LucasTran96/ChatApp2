@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576059757242",
+    "firebase_url": "https://chatdoi-de3fe.firebaseio.com",
+    "project_id": "chatdoi-de3fe",
+    "storage_bucket": "chatdoi-de3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576059757242:android:928c15967d7fc46c",
+        "android_client_info": {
+          "package_name": "com.huytranse.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576059757242-ouj1df4f1eh0vh7qontot1m2oul85q26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huytranse.chatapp",
+            "certificate_hash": "3264e188b3dd6099e7a97ffbc20bfbaccf6d6100"
+          }
+        },
+        {
+          "client_id": "576059757242-30im9j325u7k4rhpf2dem2tf1m5gs3es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qKr2xFdJsLOSDzL09Frvnx-_53uljjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576059757242-30im9j325u7k4rhpf2dem2tf1m5gs3es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
